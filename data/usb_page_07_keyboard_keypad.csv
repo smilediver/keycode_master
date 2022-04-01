@@ -1,0 +1,219 @@
+Usage ID,Usage ID (hex),Usage Name,Usage Type,AT-101,PC-AT,Mac,Unix,Boot
+1,0x01,Keyboard ErrorRollOver,Sel,N/A,1,1,1,4/101/104
+2,0x02,Keyboard POSTFail,Sel,N/A,1,1,1,4/101/104
+3,0x03,Keyboard ErrorUndefined,Sel,N/A,1,1,1,4/101/104
+4,0x04,Keyboard a and A,Sel,31,1,1,1,4/101/104
+5,0x05,Keyboard b and B,Sel,50,1,1,1,4/101/104
+6,0x06,Keyboard c and C,Sel,48,1,1,1,4/101/104
+7,0x07,Keyboard d and D,Sel,33,1,1,1,4/101/104
+8,0x08,Keyboard e and E,Sel,19,1,1,1,4/101/104
+9,0x09,Keyboard f and F,Sel,34,1,1,1,4/101/104
+10,0x0A,Keyboard g and G,Sel,35,1,1,1,4/101/104
+11,0x0B,Keyboard h and H,Sel,36,1,1,1,4/101/104
+12,0x0C,Keyboard i and I,Sel,24,1,1,1,4/101/104
+13,0x0D,Keyboard j and J,Sel,37,1,1,1,4/101/104
+14,0x0E,Keyboard k and K,Sel,38,1,1,1,4/101/104
+15,0x0F,Keyboard l and L,Sel,39,1,1,1,4/101/104
+16,0x10,Keyboard m and M,Sel,52,1,1,1,4/101/104
+17,0x11,Keyboard n and N,Sel,51,1,1,1,4/101/104
+18,0x12,Keyboard o and O,Sel,25,1,1,1,4/101/104
+19,0x13,Keyboard p and P,Sel,26,1,1,1,4/101/104
+20,0x14,Keyboard q and Q,Sel,17,1,1,1,4/101/104
+21,0x15,Keyboard r and R,Sel,20,1,1,1,4/101/104
+22,0x16,Keyboard s and S,Sel,32,1,1,1,4/101/104
+23,0x17,Keyboard t and T,Sel,21,1,1,1,4/101/104
+24,0x18,Keyboard u and U,Sel,23,1,1,1,4/101/104
+25,0x19,Keyboard v and V,Sel,49,1,1,1,4/101/104
+26,0x1A,Keyboard w and W,Sel,18,1,1,1,4/101/104
+27,0x1B,Keyboard x and X,Sel,47,1,1,1,4/101/104
+28,0x1C,Keyboard y and Y,Sel,22,1,1,1,4/101/104
+29,0x1D,Keyboard z and Z,Sel,46,1,1,1,4/101/104
+30,0x1E,Keyboard 1 and !,Sel,2,1,1,1,4/101/104
+31,0x1F,Keyboard 2 and @,Sel,3,1,1,1,4/101/104
+32,0x20,Keyboard 3 and #,Sel,4,1,1,1,4/101/104
+33,0x21,Keyboard 4 and $,Sel,5,1,1,1,4/101/104
+34,0x22,Keyboard 5 and %,Sel,6,1,1,1,4/101/104
+35,0x23,Keyboard 6 and ∧,Sel,7,1,1,1,4/101/104
+36,0x24,Keyboard 7 and &,Sel,8,1,1,1,4/101/104
+37,0x25,Keyboard 8 and *,Sel,9,1,1,1,4/101/104
+38,0x26,Keyboard 9 and (,Sel,10,1,1,1,4/101/104
+39,0x27,Keyboard 0 and ),Sel,11,1,1,1,4/101/104
+40,0x28,Keyboard Return (ENTER),Sel,43,1,1,1,4/101/104
+41,0x29,Keyboard ESCAPE,Sel,110,1,1,1,4/101/104
+42,0x2A,Keyboard DELETE (Backspace),Sel,15,1,1,1,4/101/104
+43,0x2B,Keyboard Tab,Sel,16,1,1,1,4/101/104
+44,0x2C,Keyboard Spacebar,Sel,61,1,1,1,4/101/104
+45,0x2D,Keyboard - and (underscore),Sel,12,1,1,1,4/101/104
+46,0x2E,Keyboard = and +,Sel,13,1,1,1,4/101/104
+47,0x2F,Keyboard [ and {,Sel,27,1,1,1,4/101/104
+48,0x30,Keyboard ] and },Sel,28,1,1,1,4/101/104
+49,0x31,Keyboard \ and |,Sel,29,1,1,1,4/101/104
+50,0x32,Keyboard Non-US # and ~,Sel,42,1,1,1,4/101/104
+51,0x33,Keyboard ; and :,Sel,40,1,1,1,4/101/104
+52,0x34,"Keyboard ' and """,Sel,41,1,1,1,4/101/104
+53,0x35,Keyboard Grave Accent and Tilde,Sel,1,1,1,1,4/101/104
+54,0x36,"Keyboard , and <",Sel,53,1,1,1,4/101/104
+55,0x37,Keyboard . and >,Sel,54,1,1,1,4/101/104
+56,0x38,Keyboard / and ?,Sel,55,1,1,1,4/101/104
+57,0x39,Keyboard Caps Lock,Sel,30,1,1,1,4/101/104
+58,0x3A,Keyboard F1,Sel,112,1,1,1,4/101/104
+59,0x3B,Keyboard F2,Sel,113,1,1,1,4/101/104
+60,0x3C,Keyboard F3,Sel,114,1,1,1,4/101/104
+61,0x3D,Keyboard F4,Sel,115,1,1,1,4/101/104
+62,0x3E,Keyboard F5,Sel,116,1,1,1,4/101/104
+63,0x3F,Keyboard F6,Sel,117,1,1,1,4/101/104
+64,0x40,Keyboard F7,Sel,118,1,1,1,4/101/104
+65,0x41,Keyboard F8,Sel,119,1,1,1,4/101/104
+66,0x42,Keyboard F9,Sel,120,1,1,1,4/101/104
+67,0x43,Keyboard F10,Sel,121,1,1,1,4/101/104
+68,0x44,Keyboard F11,Sel,122,1,1,1,4/101/104
+69,0x45,Keyboard F12,Sel,123,1,1,1,4/101/104
+70,0x46,Keyboard PrintScreen,Sel,124,1,1,1,4/101/104
+71,0x47,Keyboard Scroll Lock,Sel,125,1,1,1,4/101/104
+72,0x48,Keyboard Pause,Sel,126,1,1,1,4/101/104
+73,0x49,Keyboard Insert,Sel,75,1,1,1,4/101/104
+74,0x4A,Keyboard Home,Sel,80,1,1,1,4/101/104
+75,0x4B,Keyboard PageUp,Sel,85,1,1,1,4/101/104
+76,0x4C,Keyboard Delete Forward,Sel,76,1,1,1,4/101/104
+77,0x4D,Keyboard End,Sel,81,1,1,1,4/101/104
+78,0x4E,Keyboard PageDown,Sel,86,1,1,1,4/101/104
+79,0x4F,Keyboard RightArrow,Sel,89,1,1,1,4/101/104
+80,0x50,Keyboard LeftArrow,Sel,79,1,1,1,4/101/104
+81,0x51,Keyboard DownArrow,Sel,84,1,1,1,4/101/104
+82,0x52,Keyboard UpArrow,Sel,83,1,1,1,4/101/104
+83,0x53,Keypad Num Lock and Clear,Sel,90,1,1,1,4/101/104
+84,0x54,Keypad /,Sel,95,1,1,1,4/101/104
+85,0x55,Keypad *,Sel,100,1,1,1,4/101/104
+86,0x56,Keypad -,Sel,105,1,1,1,4/101/104
+87,0x57,Keypad +,Sel,106,1,1,1,4/101/104
+88,0x58,Keypad ENTER,Sel,108,1,1,1,4/101/104
+89,0x59,Keypad 1 and End,Sel,93,1,1,1,4/101/104
+90,0x5A,Keypad 2 and Down Arrow,Sel,98,1,1,1,4/101/104
+91,0x5B,Keypad 3 and PageDn,Sel,103,1,1,1,4/101/104
+92,0x5C,Keypad 4 and Left Arrow,Sel,92,1,1,1,4/101/104
+93,0x5D,Keypad 5,Sel,97,1,1,1,4/101/104
+94,0x5E,Keypad 6 and Right Arrow,Sel,102,1,1,1,4/101/104
+95,0x5F,Keypad 7 and Home,Sel,91,1,1,1,4/101/104
+96,0x60,Keypad 8 and Up Arrow,Sel,96,1,1,1,4/101/104
+97,0x61,Keypad 9 and PageUp,Sel,101,1,1,1,4/101/104
+98,0x62,Keypad 0 and Insert,Sel,99,1,1,1,4/101/104
+99,0x63,Keypad . and Delete,Sel,104,1,1,1,4/101/104
+100,0x64,Keyboard Non-US \and |,Sel,45,1,1,1,4/101/104
+101,0x65,Keyboard Application,Sel,129,1,,1,104
+102,0x66,Keyboard Power,Sel,,,1,1,
+103,0x67,Keypad =,Sel,,,1,,
+104,0x68,Keyboard F13,Sel,,,1,,
+105,0x69,Keyboard F14,Sel,,,1,,
+106,0x6A,Keyboard F15,Sel,,,1,,
+107,0x6B,Keyboard F16,Sel,,,,,
+108,0x6C,Keyboard F17,Sel,,,,,
+109,0x6D,Keyboard F18,Sel,,,,,
+110,0x6E,Keyboard F19,Sel,,,,,
+111,0x6F,Keyboard F20,Sel,,,,,
+112,0x70,Keyboard F21,Sel,,,,,
+113,0x71,Keyboard F22,Sel,,,,,
+114,0x72,Keyboard F23,Sel,,,,,
+115,0x73,Keyboard F24,Sel,,,,,
+116,0x74,Keyboard Execute,Sel,,,,1,
+117,0x75,Keyboard Help,Sel,,,,1,
+118,0x76,Keyboard Menu,Sel,,,,1,
+119,0x77,Keyboard Select,Sel,,,,1,
+120,0x78,Keyboard Stop,Sel,,,,1,
+121,0x79,Keyboard Again,Sel,,,,1,
+122,0x7A,Keyboard Undo,Sel,,,,1,
+123,0x7B,Keyboard Cut,Sel,,,,1,
+124,0x7C,Keyboard Copy,Sel,,,,1,
+125,0x7D,Keyboard Paste,Sel,,,,1,
+126,0x7E,Keyboard Find,Sel,,,,1,
+127,0x7F,Keyboard Mute,Sel,,,,1,
+128,0x80,Keyboard Volume Up,Sel,,,,1,
+129,0x81,Keyboard Volume Down,Sel,,,,1,
+130,0x82,Keyboard Locking Caps Lock,Sel,,,,1,
+131,0x83,Keyboard Locking Num Lock,Sel,,,,1,
+132,0x84,Keyboard Locking Scroll Lock,Sel,,,,1,
+133,0x85,Keypad Comma,Sel,107,,,,
+134,0x86,Keypad Equal Sign,Sel,,,,1,
+135,0x87,Keyboard International1,Sel,56,,,,
+136,0x88,Keyboard International2,Sel,,,,,
+137,0x89,Keyboard International3,Sel,,,,,
+138,0x8A,Keyboard International4,Sel,,,,,
+139,0x8B,Keyboard International5,Sel,,,,,
+140,0x8C,Keyboard International6,Sel,,,,,
+141,0x8D,Keyboard International7,Sel,,,,,
+142,0x8E,Keyboard International8,Sel,,,,,
+143,0x8F,Keyboard International9,Sel,,,,,
+144,0x90,Keyboard LANG1,Sel,,,,,
+145,0x91,Keyboard LANG2,Sel,,,,,
+146,0x92,Keyboard LANG3,Sel,,,,,
+147,0x93,Keyboard LANG4,Sel,,,,,
+148,0x94,Keyboard LANG5,Sel,,,,,
+149,0x95,Keyboard LANG6,Sel,,,,,
+150,0x96,Keyboard LANG7,Sel,,,,,
+151,0x97,Keyboard LANG8,Sel,,,,,
+152,0x98,Keyboard LANG9,Sel,,,,,
+153,0x99,Keyboard Alternate Erase,Sel,,,,,
+154,0x9A,Keyboard SysReq/Attention,Sel,,,,,
+155,0x9B,Keyboard Cancel,Sel,,,,,
+156,0x9C,Keyboard Clear,Sel,,,,,
+157,0x9D,Keyboard Prior,Sel,,,,,
+158,0x9E,Keyboard Return,Sel,,,,,
+159,0x9F,Keyboard Separator,Sel,,,,,
+160,0xA0,Keyboard Out,Sel,,,,,
+161,0xA1,Keyboard Oper,Sel,,,,,
+162,0xA2,Keyboard Clear/Again,Sel,,,,,
+163,0xA3,Keyboard CrSel/Props,Sel,,,,,
+164,0xA4,Keyboard ExSel,Sel,,,,,
+176,0xB0,Keypad 00,Sel,,,,,
+177,0xB1,Keypad 000,Sel,,,,,
+178,0xB2,Thousands Separator,Sel,,,,,
+179,0xB3,Decimal Separator,Sel,,,,,
+180,0xB4,Currency Unit,Sel,,,,,
+181,0xB5,Currency Sub-unit,Sel,,,,,
+182,0xB6,Keypad (,Sel,,,,,
+183,0xB7,Keypad ),Sel,,,,,
+184,0xB8,Keypad {,Sel,,,,,
+185,0xB9,Keypad },Sel,,,,,
+186,0xBA,Keypad Tab,Sel,,,,,
+187,0xBB,Keypad Backspace,Sel,,,,,
+188,0xBC,Keypad A,Sel,,,,,
+189,0xBD,Keypad B,Sel,,,,,
+190,0xBE,Keypad C,Sel,,,,,
+191,0xBF,Keypad D,Sel,,,,,
+192,0xC0,Keypad E,Sel,,,,,
+193,0xC1,Keypad F,Sel,,,,,
+194,0xC2,Keypad XOR,Sel,,,,,
+195,0xC3,Keypad ∧,Sel,,,,,
+196,0xC4,Keypad %,Sel,,,,,
+197,0xC5,Keypad <,Sel,,,,,
+198,0xC6,Keypad >,Sel,,,,,
+199,0xC7,Keypad &,Sel,,,,,
+200,0xC8,Keypad &&,Sel,,,,,
+201,0xC9,Keypad |,Sel,,,,,
+202,0xCA,Keypad ||,Sel,,,,,
+203,0xCB,Keypad :,Sel,,,,,
+204,0xCC,Keypad #,Sel,,,,,
+205,0xCD,Keypad Space,Sel,,,,,
+206,0xCE,Keypad @,Sel,,,,,
+207,0xCF,Keypad !,Sel,,,,,
+208,0xD0,Keypad Memory Store,Sel,,,,,
+209,0xD1,Keypad Memory Recall,Sel,,,,,
+210,0xD2,Keypad Memory Clear,Sel,,,,,
+211,0xD3,Keypad Memory Add,Sel,,,,,
+212,0xD4,Keypad Memory Subtract,Sel,,,,,
+213,0xD5,Keypad Memory Multiply,Sel,,,,,
+214,0xD6,Keypad Memory Divide,Sel,,,,,
+215,0xD7,Keypad +/-,Sel,,,,,
+216,0xD8,Keypad Clear,Sel,,,,,
+217,0xD9,Keypad Clear Entry,Sel,,,,,
+218,0xDA,Keypad Binary,Sel,,,,,
+219,0xDB,Keypad Octal,Sel,,,,,
+220,0xDC,Keypad Decimal,Sel,,,,,
+221,0xDD,Keypad Hexadecimal,Sel,,,,,
+224,0xE0,Keyboard LeftControl,DV,58,1,1,1,4/101/104
+225,0xE1,Keyboard LeftShift,DV,44,1,1,1,4/101/104
+226,0xE2,Keyboard LeftAlt,DV,60,1,1,1,4/101/104
+227,0xE3,Keyboard Left GUI,DV,127,1,1,1,104
+228,0xE4,Keyboard RightControl,DV,64,1,1,1,101/104
+229,0xE5,Keyboard RightShift,DV,57,1,1,1,4/101/104
+230,0xE6,Keyboard RightAlt,DV,62,1,1,1,101/104
+231,0xE7,Keyboard Right GUI,DV,128,1,1,1,104

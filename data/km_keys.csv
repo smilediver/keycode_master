@@ -1,0 +1,128 @@
+km_key_code,km_key_id,km_key_final,km_key_description
+0,unknown,1,"Unknown key. Reported when a key is pressed, but mapping is not found or can't be handled."
+4,key_a,1,Keyboard a and A
+5,key_b,1,Keyboard b and B
+6,key_c,1,Keyboard c and C
+7,key_d,1,Keyboard d and D
+8,key_e,1,Keyboard e and E
+9,key_f,1,Keyboard f and F
+10,key_g,1,Keyboard g and G
+11,key_h,1,Keyboard h and H
+12,key_i,1,Keyboard i and I
+13,key_j,1,Keyboard j and J
+14,key_k,1,Keyboard k and K
+15,key_l,1,Keyboard l and L
+16,key_m,1,Keyboard m and M
+17,key_n,1,Keyboard n and N
+18,key_o,1,Keyboard o and O
+19,key_p,1,Keyboard p and P
+20,key_q,1,Keyboard q and Q
+21,key_r,1,Keyboard r and R
+22,key_s,1,Keyboard s and S
+23,key_t,1,Keyboard t and T
+24,key_u,1,Keyboard u and U
+25,key_v,1,Keyboard v and V
+26,key_w,1,Keyboard w and W
+27,key_x,1,Keyboard x and X
+28,key_y,1,Keyboard y and Y
+29,key_z,1,Keyboard z and Z
+30,digit1,1,Keyboard 1 and !
+31,digit2,1,Keyboard 2 and @
+32,digit3,1,Keyboard 3 and #
+33,digit4,1,Keyboard 4 and $
+34,digit5,1,Keyboard 5 and %
+35,digit6,1,Keyboard 6 and ∧
+36,digit7,1,Keyboard 7 and &
+37,digit8,1,Keyboard 8 and *
+38,digit9,1,Keyboard 9 and (
+39,digit0,1,Keyboard 0 and )
+40,enter,1,Keyboard Return (ENTER)
+41,escape,1,Keyboard ESCAPE
+42,backspace,1,Keyboard DELETE (Backspace)
+43,tab,1,Keyboard Tab
+44,space,1,Keyboard Spacebar
+45,minus,1,Keyboard - and (underscore)
+46,equal,1,Keyboard = and +
+47,bracket_left,1,Keyboard [ and {
+48,bracket_right,1,Keyboard ] and }
+49,backslash,1,Keyboard \ and |
+51,semicolon,1,Keyboard ; and :
+52,quote,1,"Keyboard ' and """
+53,backquote,1,Keyboard ` and ~ (Grave Accent and Tilde)
+54,comma,1,"Keyboard , and <"
+55,period,1,Keyboard . and >
+56,slash,1,Keyboard / and ?
+57,caps_lock,1,Keyboard Caps Lock
+58,f1,1,Keyboard F1
+59,f2,1,Keyboard F2
+60,f3,1,Keyboard F3
+61,f4,1,Keyboard F4
+62,f5,1,Keyboard F5
+63,f6,1,Keyboard F6
+64,f7,1,Keyboard F7
+65,f8,1,Keyboard F8
+66,f9,1,Keyboard F9
+67,f10,1,Keyboard F10
+68,f11,1,Keyboard F11
+69,f12,1,Keyboard F12
+70,print_screen,1,Keyboard PrintScreen
+71,scroll_lock,1,Keyboard Scroll Lock
+72,pause,1,Keyboard Pause
+73,insert,1,Keyboard Insert
+74,move_home,1,Keyboard Home
+75,page_up,1,Keyboard PageUp
+76,delete,1,Keyboard Delete Forward
+77,move_end,1,Keyboard End
+78,page_down,1,Keyboard PageDown
+79,arrow_right,1,Keyboard RightArrow
+80,arrow_left,1,Keyboard LeftArrow
+81,arrow_down,1,Keyboard DownArrow
+82,arrow_up,1,Keyboard UpArrow
+83,kp_num_lock,1,Keypad Num Lock and Clear
+84,kp_divide,1,Keypad /
+85,kp_multiply,1,Keypad *
+86,kp_subtract,1,Keypad -
+87,kp_add,1,Keypad +
+88,kp_enter,1,Keypad ENTER
+89,kp_1,1,Keypad 1 and End
+90,kp_2,1,Keypad 2 and Down Arrow
+91,kp_3,1,Keypad 3 and PageDn
+92,kp_4,1,Keypad 4 and Left Arrow
+93,kp_5,1,Keypad 5
+94,kp_6,1,Keypad 6 and Right Arrow
+95,kp_7,1,Keypad 7 and Home
+96,kp_8,1,Keypad 8 and Up Arrow
+97,kp_9,1,Keypad 9 and PageUp
+98,kp_0,1,Keypad 0 and Insert
+99,kp_decimal,1,Keypad . and Delete
+100,intl_backslash,1,Keyboard Non-US \ and |
+101,context_menu,1,Keyboard Application
+104,f13,1,Keyboard F13
+105,f14,1,Keyboard F14
+106,f15,1,Keyboard F15
+107,f16,1,Keyboard F16
+108,f17,1,Keyboard F17
+109,f18,1,Keyboard F18
+110,f19,1,Keyboard F19
+111,f20,1,Keyboard F20
+112,f21,1,Keyboard F21
+113,f22,1,Keyboard F22
+114,f23,1,Keyboard F23
+115,f24,1,Keyboard F24
+144,lang1,0,Keyboard LANG1
+145,lang2,0,Keyboard LANG2
+146,lang3,0,Keyboard LANG3
+147,lang4,0,Keyboard LANG4
+148,lang5,0,Keyboard LANG5
+149,lang6,0,Keyboard LANG6
+150,lang7,0,Keyboard LANG7
+151,lang8,0,Keyboard LANG8
+152,lang9,0,Keyboard LANG9
+224,control_left,1,Keyboard LeftControl
+225,shift_left,1,Keyboard LeftShift
+226,alt_left,1,Keyboard LeftAlt
+227,meta_left,1,Keyboard Left GUI
+228,control_right,1,Keyboard RightControl
+229,shift_right,1,Keyboard RightShift
+230,alt_right,1,Keyboard RightAlt
+231,meta_right,1,Keyboard Right GUI

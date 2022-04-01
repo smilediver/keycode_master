@@ -1,0 +1,89 @@
+50,Keyboard Non-US # and ~
+102,Keyboard Power
+103,Keypad =
+116,Keyboard Execute
+117,Keyboard Help
+118,Keyboard Menu
+119,Keyboard Select
+120,Keyboard Stop
+121,Keyboard Again
+122,Keyboard Undo
+123,Keyboard Cut
+124,Keyboard Copy
+125,Keyboard Paste
+126,Keyboard Find
+127,Keyboard Mute
+128,Keyboard Volume Up
+129,Keyboard Volume Down
+130,Keyboard Locking Caps Lock
+131,Keyboard Locking Num Lock
+132,Keyboard Locking Scroll Lock
+133,Keypad Comma
+134,Keypad Equal Sign
+135,Keyboard International1
+136,Keyboard International2
+137,Keyboard International3
+138,Keyboard International4
+139,Keyboard International5
+140,Keyboard International6
+141,Keyboard International7
+142,Keyboard International8
+143,Keyboard International9
+153,Keyboard Alternate Erase
+154,Keyboard SysReq/Attention
+155,Keyboard Cancel
+156,Keyboard Clear
+157,Keyboard Prior
+158,Keyboard Return
+159,Keyboard Separator
+160,Keyboard Out
+161,Keyboard Oper
+162,Keyboard Clear/Again
+163,Keyboard CrSel/Props
+164,Keyboard ExSel
+176,Keypad 00
+177,Keypad 000
+178,Thousands Separator
+179,Decimal Separator
+180,Currency Unit
+181,Currency Sub-unit
+182,Keypad (
+183,Keypad )
+184,Keypad {
+185,Keypad }
+186,Keypad Tab
+187,Keypad Backspace
+188,Keypad A
+189,Keypad B
+190,Keypad C
+191,Keypad D
+192,Keypad E
+193,Keypad F
+194,Keypad XOR
+195,Keypad ∧
+196,Keypad %
+197,Keypad <
+198,Keypad >
+199,Keypad &
+200,Keypad &&
+201,Keypad |
+202,Keypad ||
+203,Keypad :
+204,Keypad #
+205,Keypad Space
+206,Keypad @
+207,Keypad !
+208,Keypad Memory Store
+209,Keypad Memory Recall
+210,Keypad Memory Clear
+211,Keypad Memory Add
+212,Keypad Memory Subtract
+213,Keypad Memory Multiply
+214,Keypad Memory Divide
+215,Keypad +/-
+216,Keypad Clear
+217,Keypad Clear Entry
+218,Keypad Binary
+219,Keypad Octal
+220,Keypad Decimal
+221,Keypad Hexadecimal
