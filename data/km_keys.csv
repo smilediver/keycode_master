@@ -96,7 +96,7 @@ km_key_code,km_key_id,km_key_final,km_key_description
 98,kp_0,1,Keypad 0 and Insert
 99,kp_decimal,1,Keypad . and Delete
 100,intl_backslash,1,Keyboard Non-US \ and |
-101,context_menu,1,Keyboard Application
+101,context_menu,1,Keyboard Application (Menu)
 104,f13,1,Keyboard F13
 105,f14,1,Keyboard F14
 106,f15,1,Keyboard F15
@@ -121,8 +121,8 @@ km_key_code,km_key_id,km_key_final,km_key_description
 224,control_left,1,Keyboard LeftControl
 225,shift_left,1,Keyboard LeftShift
 226,alt_left,1,Keyboard LeftAlt
-227,meta_left,1,Keyboard Left GUI
+227,meta_left,1,Keyboard Left GUI (Microsoft Windows/Apple Command)
 228,control_right,1,Keyboard RightControl
 229,shift_right,1,Keyboard RightShift
 230,alt_right,1,Keyboard RightAlt
-231,meta_right,1,Keyboard Right GUI
+231,meta_right,1,Keyboard Right GUI (Microsoft Windows/Apple Command)
